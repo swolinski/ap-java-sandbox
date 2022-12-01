@@ -8,6 +8,6 @@ public class Book {
     }
 
     public void printBook() {
-        System.out.println("The book " + title + " is " + numPages + " long.");
+        System.out.println("The book " + title + " is " + numPages + " pages long.");
     }
 }
